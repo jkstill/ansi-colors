@@ -173,7 +173,7 @@ colorPrint () {
 		bg='default'
 	fi
 
-	[[ $nounset ]] || set -u
+	[[ $nounset -eq 0 ]] && set -u
 
 	setColor ${fg}FG
 	setColor ${bg}BG
