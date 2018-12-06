@@ -16,7 +16,7 @@ The following command line will print a display of all color combinations:
 ```bash
 SHOW_COLORS=1 bash ansi-color.sh
 ```
-![Ansi Colors](jkstill.github.com/ansi-colors/images/bash-colors.png)
+![Ansi Colors](/images/bash-colors.png)
 
 The ansi-color-demo.sh script is a simple example to show useage:
 
@@ -24,7 +24,7 @@ The ansi-color-demo.sh script is a simple example to show useage:
 bash ansi-color-demo.sh
 ```
 
-![Ansi Color Demo](jkstill.github.com/ansi-colors/images/ansi-color-demo.png)
+![Ansi Color Demo](/images/ansi-color-demo.png)
 
 
 
